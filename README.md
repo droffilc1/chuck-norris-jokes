@@ -16,9 +16,31 @@ Norris API.
 * Fetches and displays a list of available joke categories.
 * Search for jokes by keyword.
 
-## Running the project
+## Running The Project
+To get a local copy up and running you just need to follow the following steps in your terminal;
+```
+git clone "url"
+```
 
-### 🛠 set-up
+where "url" (without the quotation marks) is the url to this repository.
+
+For example:
+
+```
+git clone https://github.com/droffilc1/chuck-norris-jokes.git
+```
+
+Here you're copying the contents of the recipe-hub repository on GitHub to your computer.
+
+Change to the repository directory on your computer (if you are not already there):
+
+```
+cd chuck-norris-jokes
+```
+
+### Running the project locally
+
+#### 🛠 set-up
 1- Install the dependencies
 ```
 npm install
