@@ -6,9 +6,9 @@
 Chuck Norris Jokes is a React application that fetches and displays Chuck Norris jokes from the Chuck
 Norris API.
 
-**Deployed Application:** link
+**Deployed Application:** https://chuck-norris-jokes-eight.vercel.app/
 
-![chuck-norris-jokes](link)
+![chuck-norris-jokes](https://github.com/droffilc1/chuck-norris-jokes/assets/97587370/52db3b4a-013e-47d4-bbe7-06cf3bffbc30)
 
 ## Features
 * Fetches and displays a random Chuck Norris joke.
