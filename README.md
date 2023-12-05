@@ -30,7 +30,7 @@ For example:
 git clone https://github.com/droffilc1/chuck-norris-jokes.git
 ```
 
-Here you're copying the contents of the recipe-hub repository on GitHub to your computer.
+Here you're copying the contents of the chuck-norris-jokes repository on GitHub to your computer.
 
 Change to the repository directory on your computer (if you are not already there):
 
